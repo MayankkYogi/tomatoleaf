@@ -19,7 +19,7 @@ Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-
 [![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
 
 ## Overview
-This is a Flask web app which predicts the type of tomato leaf. Dataset can be download from [Kaggle](https://www.kaggle.com/noulam/tomato)
+This is a Flask web app which predicts the type of tomato leaf. Used Transfer Learning Technique and Data Augmentation to gather more informaton about the image. Dataset can be download from [Kaggle](https://www.kaggle.com/kaustubhb999/tomatoleaf?)
 
 ## Motivation
 What to do when you are at home due to this pandemic situation? I started to learn Data Science and deep dive into all related topics to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
@@ -50,7 +50,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── Procfile
 ├── README.md
 ├── app.py
-├── flight_price.ipynb
+├── tomato.ipynb
 ├── flight_rf.pkl
 ├── requirements.txt
 ```
