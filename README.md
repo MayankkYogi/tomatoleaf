@@ -41,11 +41,11 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ```
 ├── static 
   ├── css
-│   ├── main.css
+      ├── main.css
   |── JS 
       ├── main.js
 ├── template
-│     ├── home.html
+      ├── home.html
       ├── base.html
 ├── Procfile
 ├── README.md
@@ -64,6 +64,6 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Future Scope
 
-* Use Tensorflow and Tranfer Learning(Inception V3)
+* Use Tensorflow and Tranfer Learning(VGG16)
 * Optimize Flask app.py
 * Front-End 
