@@ -8,6 +8,7 @@
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
   * [Technologies Used](#technologies-used)
+  * [Team](#team)
   * [Future scope of project](#future-scope)
 
 
@@ -60,6 +61,12 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
 [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://keras.io/img/logo.png" width=300>](https://keras.io/) 
+
+
+## Team
+
+Mayank Yogi
+
 
 
 ## Future Scope
