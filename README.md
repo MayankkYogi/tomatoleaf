@@ -48,11 +48,11 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── template
       ├── home.html
       ├── base.html
-├── app.yaml
+├── Procfile
 ├── README.md
-├── main.py
+├── app.py
 ├── tomato.ipynb
-├── flight_rf.pkl
+├── tomato.h5l
 ├── requirements.txt
 ```
 
