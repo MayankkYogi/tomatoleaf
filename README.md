@@ -52,7 +52,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── README.md
 ├── app.py
 ├── tomato.ipynb
-├── tomato.h5l
+├── tomato.h5
 ├── requirements.txt
 ```
 
