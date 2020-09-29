@@ -48,9 +48,9 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── template
       ├── home.html
       ├── base.html
-├── Procfile
+├── app.yaml
 ├── README.md
-├── app.py
+├── main.py
 ├── tomato.ipynb
 ├── flight_rf.pkl
 ├── requirements.txt
