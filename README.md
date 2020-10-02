@@ -13,11 +13,11 @@
 
 ## Demo
 
-[![](https://i.imgur.com/0Alt8xN.png)]
+![](https://i.imgur.com/0Alt8xN.png)
 
-[![](https://i.imgur.com/Ll15O3m.png)]
+![](https://i.imgur.com/Ll15O3m.png)
 
-[![](https://i.imgur.com/eDjB0jX.png)]
+![](https://i.imgur.com/eDjB0jX.png)
 
 ## Overview
 This is a Flask web app which predicts the type of tomato leaf. Used Transfer Learning Technique and Data Augmentation to gather more informaton about the image. Dataset can be download from [Kaggle](https://www.kaggle.com/kaustubhb999/tomatoleaf?)
