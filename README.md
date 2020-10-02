@@ -5,7 +5,6 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
-  * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
@@ -13,11 +12,12 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
 
-[![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
+[![](https://i.imgur.com/0Alt8xN.png)]
 
-[![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
+[![](https://i.imgur.com/Ll15O3m.png)]
+
+[![](https://i.imgur.com/eDjB0jX.png)]
 
 ## Overview
 This is a Flask web app which predicts the type of tomato leaf. Used Transfer Learning Technique and Data Augmentation to gather more informaton about the image. Dataset can be download from [Kaggle](https://www.kaggle.com/kaustubhb999/tomatoleaf?)
@@ -31,12 +31,6 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 pip install -r requirements.txt
 ```
 
-## Deployement on Heroku
-Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
-
-[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
-
-Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
 ## Directory Tree 
 ```
